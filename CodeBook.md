@@ -4,8 +4,8 @@
 
 **Before running script, working directory must be set to root of extracted zip file!**
 
-Data can be found on [link text](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
-More information can be found on [link text](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+Data can be found on [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
+More information can be found on [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 Script reads files, changes names so that they are all lower case, seperated with underscores and selects only columns with "std" and "mean". Finaly data is written into file called data.txt.
 
